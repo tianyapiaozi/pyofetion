@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+
+# Copyright 2011 by Li Jiliang(tianyapiaozi@gmail.com)
+# See LICENSE for details.
+
 from ctypes import *
 from pyofetion import *
 from ctypes.util import find_library
