@@ -1,5 +1,10 @@
 Pyofetion is a simple python binding for openfetion(http://code.google.com/p/ofetion/).
 
-Pyofetion is a pure python module(using ctypes) that allows access to openfetion's libofetion library from Python. There is a sample code pycliofetion.py which implements the same function as the official cliofetion.
+Pyofetion is a pure python module(using ctypes) that allows access to 
+openfetion's libofetion library from Python. There is a sample code 
+pycliofetion.py which implements the same function as the official 
+cliofetion.
 
-Pyofetion just provides a way to use libofetion library and I have to admit that it's not quite Pythonic to use pyofetion. The better way is to write python extension for libofetion.
+Pyofetion just provides a way to use libofetion library and I have to admit
+ that it's not quite Pythonic to use pyofetion. The better way is to write 
+python extension for libofetion.
